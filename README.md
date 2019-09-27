@@ -11,6 +11,6 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 ![Eat-Da-Burger](/public/assets/images/eatdaburger.png)
 
-Link to portfolio page: https://dagnachew.github.io/Responsive-Portfolio/portfolio.html
-
 Heroku demo link: https://hidden-taiga-04894.herokuapp.com/
+
+Link to portfolio page: https://dagnachew.github.io/Responsive-Portfolio/portfolio.html
